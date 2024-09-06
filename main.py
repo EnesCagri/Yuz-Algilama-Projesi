@@ -1,7 +1,6 @@
 import cv2 as cv
 from face_module import FaceDetector
 
-# FaceDetector sınıfını başlat
 face_detector = FaceDetector()
 
 # Kamerayı başlat
